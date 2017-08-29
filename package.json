@@ -1,0 +1,22 @@
+{
+  "name": "modul-7",
+  "version": "1.0.0",
+  "description": "Moduł 7 - zadanie",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgrobelny/module7.git"
+  },
+  "keywords": [
+    "module7"
+  ],
+  "author": "MG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgrobelny/module7/issues"
+  },
+  "homepage": "https://github.com/mgrobelny/module7#readme"
+}
